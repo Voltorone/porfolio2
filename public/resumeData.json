@@ -1,22 +1,22 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "name":"Alexandre Belarte CV",
+    "description":"I am a web applications developer engineer and I use react and vue.js to develop pages. In this page you can see my CV in a diferet shape. Thanks for stopping by",
+    "image":"alex3.jpg",
+    "bio":"After 8 years working in the social work field i foun out how much the digitalization of many processes can improve the performance of both private and public organizations.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "Alexandre.es.90@gmail.com",
+    "phone": "607437809",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"C/ Maestro Asensi ",
+      "city":"Valencia",
+      "state":"Spain",
+      "zip": "46018"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
